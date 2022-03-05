@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called name and set it equal to 'Dane'
+// then we check to see if name variable is equal to mary,
+// if so, the console will log 'Hi, Mary!' but if else the console will log 'How do you do?'
+//console logs 'How do you do?'
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make two a variables, secret and code, secret has no value yet and code equals 123
+// we check if code is exactly equal to 123 if correct, secret will equal 'super' and value of code will equal the value of code mulitplied by 2.
+// then we check if the value of code is greater than 250, if correct secret will equal 'duper'
+//console logs (super)
 
 //CODE
 /*
