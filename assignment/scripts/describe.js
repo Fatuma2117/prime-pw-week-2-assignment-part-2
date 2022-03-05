@@ -70,10 +70,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we start by setting three variables isStudent = true, age =34, and zip = 55407
+// we check if isStudent equals true and zip is greater than 80000 the console would run 'you're a student fro the West coast'. 
+// then we check if isStudent is false or age is less than 30the console would run 'what are your hobbies?'
+//then check if isStudent equals true, console will run 'Welcome to Prime'
+// if none of the if statements are correct the console will run 'How about the weather?'
+// console logs 'Welcome to Prime!'
 
 //CODE
 /*
@@ -137,7 +139,10 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-*/
+// Fix colorOne = 'blue' and colorTwo = 'red'. Mix is true so we need colorTwo = 'purple' in the if statement.
+
+
+*/ 
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
@@ -150,6 +155,7 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+// I would only fix the || because its an 'or' but the statement said and so I would switch it to &&.
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
@@ -165,5 +171,7 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+
+// fix switch minAge <= age to  Age >= minAge
 */
 
