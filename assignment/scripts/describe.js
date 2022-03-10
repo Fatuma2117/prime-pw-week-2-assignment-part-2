@@ -46,9 +46,12 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // we make two a variables, secret and code, secret has no value yet and code equals 123
-// we check if code is exactly equal to 123 if correct, secret will equal 'super' and value of code will equal the value of code mulitplied by 2.
-// then we check if the value of code is greater than 250, if correct secret will equal 'duper'
-//console logs (super)
+// we begin our first if statement to check the condition : code is equal to 123, which is true. 
+//Then if the condition is true, secret will equal the value of 'super' and code will equal the value of code multiplied by 2.
+// Our second if statement condition is  if the value of code is greater than 250.
+//if the second condition is true the value of secret will equal 'duper'
+// the second condition is false so the console will run the first if statement which logs 'super'
+
 
 //CODE
 /*
@@ -173,7 +176,7 @@ if(minAge <= age) {
 }
 
 // Fix switch minAge <= age to  Age >= minAge
-// Also, switch the console statements, the condition is true and will log 'enter'.
+// Also, switch the console statements because age is greater than 21, the condition is true and the console will log 'enter'.
 */
 
 
