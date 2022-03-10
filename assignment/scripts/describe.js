@@ -172,6 +172,8 @@ if(minAge <= age) {
   console.log('enter');
 }
 
-// fix switch minAge <= age to  Age >= minAge
+// Fix switch minAge <= age to  Age >= minAge
+// Also, switch the console statements, the condition is true and will log 'enter'.
 */
+
 
